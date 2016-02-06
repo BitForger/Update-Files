@@ -1,8 +1,12 @@
 { 
 	"homepage": "http://kaminocoding.github.io/Invincible-Hamster", 
 	"promos": { 
+		"1.8-recommended": "2.0.0",
 		"1.7.10-recommended": "1.0.0"
-	}, 
+	},
+	"1.8" : {
+		"2.0.0" : "Updated to Minecraft 1.8"
+	},
 	"1.7.10" : { 
 		"1.0.0": "Update to Minecraft 1.7.10"
 	} 
